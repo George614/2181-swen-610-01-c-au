@@ -86,10 +86,10 @@ This section describes the detail design of sub-system X.
 ### Static models
 
 Class diagrams are shown below:
-![Class Diagram](/docs/CheckersClassDiagram.png)
+![Class Diagram](https://github.com/ahreinhardt/2181-swen-610-01-c-au/tree/master/docs/CheckersClassDiagram.png)
 
 ### Dynamic models
 
 Sequence Diagrams for the project are shown below:
-![Sequence Diagram 1](/docs/SequenceDiagram_Part1.png)
-![Sequence Diagram 2](/docs/SequenceDiagram_Part2.png)
+![Sequence Diagram 1](https://github.com/ahreinhardt/2181-swen-610-01-c-au/tree/master/docs/SequenceDiagram_Part1.png)
+![Sequence Diagram 2](https://github.com/ahreinhardt/2181-swen-610-01-c-au/tree/master/docs/SequenceDiagram_Part2.png)

@@ -86,7 +86,8 @@ This section describes the detail design of sub-system X.
 ### Static models
 
 Class diagrams are shown below:
-![Class Diagram](/docs/CheckersClassDiagram.png)
+![Class Diagram](2181-swen-610-01-c-au/docs/CheckersClassDiagram.png)
+
 
 ### Dynamic models
 
